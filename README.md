@@ -1,6 +1,6 @@
 # DESUU_NoC
-Network-on-Chip based DESUU
+DESUU-II:Network-on-Chip Based DESUU;
 -------------------------------------------------------------------------------------------------------------------------
-Edited by Wenkai on May 25, 2017;
+Edited by Wenkai;
 Instructed by Cris (cristinel.ababei@marquette.edu);
 -------------------------------------------------------------------------------------------------------------------------
